@@ -1,4 +1,4 @@
-package main.java.aula02;
+package aula02;
 
 public class Caneta {
   public String modelo;

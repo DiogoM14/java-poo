@@ -1,7 +1,5 @@
 package aula02;
 
-import main.java.aula02.Caneta;
-
 public class App 
 {
     public static void main( String[] args ) {
